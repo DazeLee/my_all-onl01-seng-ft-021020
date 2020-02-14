@@ -10,9 +10,9 @@ def my_all?(collection)
   i += 1 
 end
 # if arr.include?(false)
-# return false 
-# else 
-# return true 
+# return false
+#else 
+#  return true 
 # end 
   return true
 end
